@@ -1,0 +1,30 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+}
+
+.container{
+  text-align: center;
+  padding: 30px;
+}
+
+.grid{
+  background-color: #EEE;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+input{
+  background-color: cyan;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+input:hover{
+  background-color: teal;
+}
+
+.div-clear{
+  clear: both;
+}
