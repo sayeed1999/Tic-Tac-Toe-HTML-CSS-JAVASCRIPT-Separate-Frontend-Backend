@@ -12,3 +12,5 @@ The javascript file I made seperately. It will ask game inputs from you from the
 So this .js file I can say as a console game! Right?
 
 Now your task is to join the console app & the frontend! Take the challenge!! 😃
+
+Note: always play multiplayer. I have kept the computer input player function empty! If you can code that, best of luck!!!
